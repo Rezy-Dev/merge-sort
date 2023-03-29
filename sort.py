@@ -32,7 +32,7 @@ def merge_sort(a_list):
            j += 1
            k += 1
   
-   print("Merging ", a_list)
+   print("Merging....", a_list)
 
 
 if __name__ == '__main__':
